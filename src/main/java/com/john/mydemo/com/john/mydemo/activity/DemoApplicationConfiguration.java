@@ -1,4 +1,4 @@
-package com.john.mydemo;
+package com.john.mydemo.com.john.mydemo.activity;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -31,6 +31,7 @@ public class DemoApplicationConfiguration {
                 {"erdemedeiros", "password", "ROLE_ACTIVITI_USER", "GROUP_activitiTeam"},
                 {"other", "password", "ROLE_ACTIVITI_USER", "GROUP_otherTeam"},
                 {"admin", "password", "ROLE_ACTIVITI_ADMIN"},
+                {"system", "password", "ROLE_ACTIVITI_ADMIN"}
         };
 
         for (String[] user : usersGroupsAndRoles) {

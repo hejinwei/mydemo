@@ -1,4 +1,4 @@
-package com.john.mydemo;
+package com.john.mydemo.com.john.mydemo.activity;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

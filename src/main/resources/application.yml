@@ -1,1 +1,1 @@
- spring.activiti.check-process-definitions: false
+# spring.activiti.check-process-definitions: true

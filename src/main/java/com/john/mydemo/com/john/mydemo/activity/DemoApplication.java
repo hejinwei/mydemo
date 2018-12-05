@@ -1,4 +1,4 @@
-package com.john.mydemo;
+package com.john.mydemo.com.john.mydemo.activity;
 
 import org.activiti.runtime.api.TaskRuntime;
 import org.activiti.runtime.api.event.TaskAssigned;
@@ -16,7 +16,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class DemoApplication implements CommandLineRunner {
 
     private Logger logger = LoggerFactory.getLogger(DemoApplication.class);
